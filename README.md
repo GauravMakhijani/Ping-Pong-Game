@@ -1,2 +1,2 @@
 # Ping-Pong-Game
-Link : gaurav-makhijani-ping-pong-game.netlify.app
+Link : https://gaurav-makhijani-ping-pong-game.netlify.app/
